@@ -1,5 +1,5 @@
 bread x 2
-chocolate x 1
+chocolate x 5
 beer x 6
 chips x 2
-perfume x 1
+perfume x 3
