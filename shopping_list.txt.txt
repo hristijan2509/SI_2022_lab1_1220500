@@ -1,5 +1,11 @@
 bread x 2
 chocolate x 5
 beer x 6
+<<<<<<< HEAD
 chips x 2
 perfume x 3
+=======
+cheese x 2
+perfume x 3
+steak x 4
+>>>>>>> branch2
