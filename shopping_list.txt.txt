@@ -3,3 +3,4 @@ chocolate x 5
 beer x 6
 cheese x 2
 perfume x 3
+steak x 4
